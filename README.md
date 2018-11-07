@@ -13,7 +13,7 @@
 En la página de [GitHub][github] sigo los siguientes pasos:
 1.	En la esquina superior derecha, junto al _avatar_, hago clic en el símbolo \+ y luego selecciono **Nuevo repositorio**.
 2.	Nombro el repositorio como **hello-world** y escribo una breve descripción.
-3.	Selecciono Inicializar este repositorio con un archivo **README**.
+3.	Selecciono Inicializar este repositorio con un archivo **README**.  
 Aquí una imagen de ejemplo de lo que hay que marcar: ![ejemplo](https://guides.github.com/activities/hello-world/create-new-repo.png)
 5.	Hago clic en **Crear repositorio**.
 6.	Subo los tres archivos creados anteriormente
