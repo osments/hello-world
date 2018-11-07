@@ -7,7 +7,7 @@
 
 ## Registro e iniciación en GitHub:
 1. Me he creado una cuenta en [Github][github].
-2. He leído la _[guía de iniciación]_(https://guides.github.com/activities/hello-world/)
+2. He leído la _[guía de iniciación](https://guides.github.com/activities/hello-world/)_
 
 ## Crear repositorio en GitHub
 En la página de [GitHub][github] sigo los siguientes pasos:
